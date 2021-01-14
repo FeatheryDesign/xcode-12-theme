@@ -95,7 +95,7 @@
 		"statusBar.noFolderForeground": "#dcdddd",
 		"tab.activeBackground": "#383a3d",
 		"tab.activeForeground": "#ffffff",
-		"tab.border": "#5b5d5f",
+		"tab.border": "#383a3d",
 		"tab.inactiveBackground": "#1f1f21",
 		"tab.inactiveForeground": "#9a9c9d",
 		"textLink.activeForeground": "#6699ff",
