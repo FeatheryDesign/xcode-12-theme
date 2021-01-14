@@ -10,21 +10,22 @@ Matches the default window and syntax colors of Xcode.
 
 ## React
 
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=12RX2ct8mCwO2-sJ-gZ2anv1Acai8pUgQ)
-
-## ![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1qOygFFMhIVdi7MoC5LbRokf-oddaWvLn)
-
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=11q4dDZm0LNoVKtjxNJyTs0zPfAZg0IpA)
+![Xcode Default (Dark) Screenshot](https://feathery.design/img-upload/xcode-12-theme/1-min.png)
+---
+![Xcode Default (Dark) Screenshot](https://feathery.design/img-upload/xcode-12-theme/2-min.png)
+---
+![Xcode Default (Dark) Screenshot](https://feathery.design/img-upload/xcode-12-theme/3-min.png)
 
 ## Angular
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1mtAAA7ibkuKhI6ewf5Nrcwovg6dTmlMq)
+![Xcode Default (Dark) Screenshot](https://feathery.design/img-upload/xcode-12-theme/4-min.png)
 
 # Tips
 
-To obtain the max similarity of Xcode, I recommend to use the Apple font-family called SF Mono Medium
+To obtain the max similarity of Xcode, I recommend to use the Apple font-family called SF Mono Medium.
+https://developer.apple.com/fonts/ (Even if you are on a Mac, you need to install it.)
 
-![Xcode Default (Dark) Screenshot](https://drive.google.com/uc?export=view&id=1z6g8Vt8LojSyHvFiLBoR6IOPzUo77F3k)
+![Xcode Default (Dark) Screenshot](https://feathery.design/img-upload/xcode-12-theme/5-min.png)
 
 # Changelog
 
